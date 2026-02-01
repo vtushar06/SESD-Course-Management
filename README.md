@@ -68,7 +68,7 @@ npm start
 ```
 
 
-## 🎯 Key Features
+## Key Features
 
 **CRUD Operations** - Create, Read, Update, Delete
 **Search** - Search students by name, courses by code
@@ -82,7 +82,7 @@ npm start
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Node.js** - Runtime
 - **Express.js** - Web framework
@@ -92,7 +92,7 @@ npm start
 
 ---
 
-## 📖 File Breakdown
+## File Breakdown
 
 | File | Purpose |
 |------|---------|
